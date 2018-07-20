@@ -1,0 +1,5 @@
+﻿  snake.cpp
+c:\users\exewin\source\repos\snake\sfml\snake.cpp(36): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\exewin\source\repos\snake\sfml\snake.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\exewin\source\repos\snake\sfml\snake.cpp(221): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML.vcxproj -> C:\Users\exewin\source\repos\Snake\Debug\SFML.exe
